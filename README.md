@@ -1,4 +1,4 @@
-# FlutterChat 🚀
+# WhatsApp Clone 🚀
 Experience the ultimate messaging platform with our WhatsApp clone built using Flutter and powered by Firebase! 📱✨
 
 ## Features:
